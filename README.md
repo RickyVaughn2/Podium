@@ -1,3 +1,5 @@
-[logo]: https://github.com/RickyVaughn2/Podium/blob/master/images/icon.png "Podium"
+<img src="https://raw.githubusercontent.com/RickyVaughn2/Podium/master/images/icon.png"
+     alt="podium"
+     style="float: left; margin-right: 10px;" />
 # Podium
-many things into one, from the source
+The goal of Podium is to gather all of your elected officials, based on your address.  Once your elected officals are known, Podium will then reach into many sources to feed you live information on what they have planned for the day, how they voted, what they are saying on social media feeds.
