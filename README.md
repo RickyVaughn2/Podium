@@ -6,6 +6,10 @@ The goal of Podium is to gather all of your elected officials, based on your add
 
 
 # Usage
-get_reps requires 2 inputs:
+get_reps requires 2 arguments:
 * -k google api key
 * -a address that you want the reps for
+
+___
+stream_tweets requires 1 arguments:
+* -u twitter username to stream tweets from
