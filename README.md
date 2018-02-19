@@ -11,5 +11,5 @@ get_reps requires 2 arguments:
 * -a address that you want the reps for
 
 ___
-stream_tweets requires 1 arguments:
+stream_tweets and get_tweets require 1 argument:
 * -u twitter username to stream tweets from
